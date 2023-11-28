@@ -1,0 +1,1 @@
+Medico{Persona{Nombre ='Sofia', Apellidos ='Vergara', DNI = '3123132', Sexo = 'Femenino', Celular = '58913412', Direccion ='Las pipias 132'}, Especialidad='Cardiologia', NumeroColegiado='1234'}

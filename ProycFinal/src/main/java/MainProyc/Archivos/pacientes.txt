@@ -1,0 +1,5 @@
+Paciente{Persona{Nombre ='Jorge ', Apellidos ='Contreras Delgado', DNI = '74137908', Sexo = 'Masculino', Celular = '921996479', Direccion ='Las Piletas 325'}, IdPaciente='1'}
+Paciente{Persona{Nombre ='Camila', Apellidos ='Caceres Medina', DNI = '12345678', Sexo = '9345677812', Celular = '91231231', Direccion ='Las manzanitas 3242'}, IdPaciente='2'}
+Paciente{Persona{Nombre ='Fabricio', Apellidos ='Delgado', DNI = '73142356', Sexo = 'Masculino', Celular = '921345123', Direccion ='Las caracas 76'}, IdPaciente='3'}
+Paciente{Persona{Nombre ='Carlos', Apellidos ='Contreras', DNI = '74356213', Sexo = 'Masculino', Celular = '987654123', Direccion ='Los cocos 123'}, IdPaciente='4'}
+Paciente{Persona{Nombre ='Mario', Apellidos ='Casta�eda', DNI = '73213456', Sexo = 'Masculino', Celular = '9123456731', Direccion ='Las manas 12345'}, IdPaciente='4'}
